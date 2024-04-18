@@ -12,8 +12,8 @@ html, body{
 }
 
 body{
+    background-color: rgb(27, 23, 23);
     
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
